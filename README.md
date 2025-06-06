@@ -23,6 +23,7 @@ A simple Python script that continuously monitors the status of a website and re
 🛠️ How It Works
 
 The user enters a website URL (e.g., https://example.com).
+
 The script checks the site’s availability every 3 seconds.
 
 It shows:
