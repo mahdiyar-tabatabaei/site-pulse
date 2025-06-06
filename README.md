@@ -4,10 +4,10 @@ A simple Python script that continuously monitors the status of a website and re
 
 📌 Features
 
-	- Sends a request to a given URL every 3 seconds
-	- Prints the HTTP status code with success/error messages
-	- Handles connection errors gracefully
-	- Stops monitoring with Ctrl + C
+- Sends a request to a given URL every 3 seconds
+- Prints the HTTP status code with success/error messages
+- Handles connection errors gracefully
+- Stops monitoring with Ctrl + C
 
 🚀 How to Run
 
