@@ -20,11 +20,11 @@ A simple Python script that continuously monitors the status of a website and re
 		pip install requests
 
 	3.Clone the repository or download the script:
-		git clone https://github.com/your-username/website-status-checker.git
-		cd website-status-checker
+		git clone https://github.com/mahdiyar-tabatabaei/site-pulse
+		cd site-pulse
 
 	4.Run the script:
-		python status_checker.py
+		python SitePulse.py
 
 🛠️ How It Works
 
